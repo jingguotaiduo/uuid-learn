@@ -1,0 +1,19 @@
+{
+  "name": "test-node-uuid",
+  "version": "1.0.0",
+  "description": "test javascript uuid",
+  "main": "TestUUID.js",
+  "scripts": {
+    "testuuid": "node TestUUID"
+  },
+  "type": "cjs",
+  "keywords": [
+    "uuid",
+    "js"
+  ],
+  "author": "jing_zhong",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^9.0.0"
+  }
+}
